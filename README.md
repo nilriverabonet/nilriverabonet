@@ -14,7 +14,6 @@
 
 Vengo de gestionar sistemas y resolver incidencias críticas como **Técnico SMR** en empresas grandes. Ahora, estoy cursando el **Grado Superior en DAM** para entender la tecnología desde dentro: creando el código.
 
-> 💡 *Enfoque:* Mi meta es escribir código limpio, eficiente y escalable, aplicando la lógica de resolución de problemas que aprendí en Sistemas.
 
 ---
 
