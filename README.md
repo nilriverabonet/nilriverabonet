@@ -10,9 +10,9 @@
 
 ---
 
-## 👨‍💻 `public class AboutMe`
+##  `public class AboutMe`
 
-¡Hola! 👋 Soy **Nil Rivera**, desarrollador de software en Barcelona con una base sólida en infraestructura y sistemas.
+¡Hola!  Soy **Nil Rivera**, desarrollador de software en Barcelona con una base sólida en infraestructura y sistemas.
 
 Tras formarme en **Sistemas Microinformáticos y Redes (SMR)** y trabajar en entornos corporativos críticos resolviendo incidencias, gestionando migraciones y administrando sistemas, di el salto al desarrollo con el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi ventaja competitiva es entender el ciclo completo: no solo cómo escribir código limpio, sino cómo se despliega, se conecta por red y se ejecuta sobre el hierro.
 
@@ -27,20 +27,20 @@ public class NilRivera extends Developer {
 
 ---
 
-## 🚀 Proyectos Destacados (`Featured Repos`)
+##  Proyectos Destacados (`Featured Repos`)
 
 | Proyecto | Descripción | Stack Principal |
 | :--- | :--- | :--- |
-| 🔧 **VitturApp** | Plataforma integral para la gestión de talleres mecánicos y mantenimiento de vehículos. Diseño de base de datos, backend e infraestructura. | `Java` `PostgreSQL` `Docker` |
-| 🚗 **Monlau Hub** | Aplicación comunitaria de *carpooling* y recursos compartidos para estudiantes. Diseño de arquitectura y lógica de servidor. | `Java` `SQL` `MVC` |
-| 🔑 **[py_keygen](https://github.com/nilriverabonet/py_keygen)** | Herramienta de generación de claves y automatización mediante scripting enfocado en seguridad y eficiencia. | `Python` `CLI` |
-| 🌐 **[ConectaMas](https://github.com/nilriverabonet/ConectaMas)** | Proyecto de desarrollo colaborativo enfocado en conectividad y gestión de datos estructurados. | `C#` `SQL` `Git` |
+|  **VitturApp** | Plataforma integral para la gestión de talleres mecánicos y mantenimiento de vehículos. Diseño de base de datos, backend e infraestructura. | `Java` `PostgreSQL` `Docker` |
+|  **Monlau Hub** | Aplicación comunitaria de *carpooling* y recursos compartidos para estudiantes. Diseño de arquitectura y lógica de servidor. | `Java` `SQL` `MVC` |
+|  **[py_keygen](https://github.com/nilriverabonet/py_keygen)** | Herramienta de generación de claves y automatización mediante scripting enfocado en seguridad y eficiencia. | `Python` `CLI` |
+|  **[ConectaMas](https://github.com/nilriverabonet/ConectaMas)** | Proyecto de desarrollo colaborativo enfocado en conectividad y gestión de datos estructurados. | `C#` `SQL` `Git` |
 
 ---
 
-## 🛠️ Entorno de Desarrollo (`My Setup`)
+##  Entorno de Desarrollo (`My Setup`)
 
-### ⚙️ IDEs & Herramientas
+###  IDEs & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Antigravity-20C20E?style=for-the-badge&logo=rocket&logoColor=black" alt="Antigravity" />
@@ -50,7 +50,7 @@ public class NilRivera extends Developer {
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
 </p>
 
-### 💻 Lenguajes, Datos & DevOps
+###  Lenguajes, Datos & DevOps
 | Área | Tecnologías | Aplicación Práctica |
 | :--- | :--- | :--- |
 | **Backend & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | POO avanzada, estructuras de datos, patrones de diseño y gestión de memoria. |
@@ -60,7 +60,7 @@ public class NilRivera extends Developer {
 
 ---
 
-## 💼 `Career.log` (Trayectoria)
+##  `Career.log` (Trayectoria)
 
 * **2024 | SEIDOR:** *Técnico de Sistemas & Helpdesk.* Resolución de incidencias remotas, migración de sistemas y soporte corporativo.
 * **2023 | CORSA:** *Técnico de Mantenimiento.* Diagnóstico de hardware, mantenimiento preventivo e infraestructura IT.
@@ -68,7 +68,7 @@ public class NilRivera extends Developer {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nilriverabonet&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&include_all_commits=true&count_private=true" height="165" alt="Stats de Nil" />
